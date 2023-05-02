@@ -1,0 +1,18 @@
+- Attachment File Upload [NodeJS] [MMK]
+File Upload API
+- MIME TYPE (file type) 
+- Route post('/file')
+- Route get('/file/:id')
+- Route delete('/file/:id')
+
+fileModel (Save in Database)
+- filePath (absolutePath)
+- createdAt, updated, hardDelete ()
+
+File Storage
+- Physical Storage
+- No FTP, No cloud, No Database
+
+
+- Language [SHA]
+- Excel Export [SHA]
